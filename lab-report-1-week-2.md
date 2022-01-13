@@ -1,0 +1,1 @@
+![Image](tryingcommands.png)
