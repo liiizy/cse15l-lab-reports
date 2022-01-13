@@ -25,7 +25,7 @@ Type `yes` and then type in your password.
 
 > Step 3: Run Some Commands
 
-![Image](tryingcommands.png)
+![Image](tryingcommands1.png)
 
 Here are some commands and what they do:
 * `cd ~` : Changes to home directory
