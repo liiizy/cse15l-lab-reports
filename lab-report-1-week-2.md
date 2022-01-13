@@ -1,8 +1,11 @@
+## How to log into a course-specific account on `ieng6`
+---
+
 > Step 1: Visual Studio Code
 
 ![Image](downloadvscode.png)
 
-Go to this [link](https://code.visualstudio.com/) to download Visual Studio Code and follow the instructions to install in on your computer. 
+Go to this [link](https://code.visualstudio.com/) to download Visual Studio Code and follow the instructions to install it on your computer. 
 
 > Step 2: Remotely Connecting
 
@@ -30,8 +33,8 @@ Type `yes` and then type in your password.
 Here are some commands and what they do:
 * `cd ~` : Changes to home directory
 * `cd` : Change directory
-* `ls -lat` : List out a
-* `ls -a` : List out all the files, even the hidden ones
+* `ls -lat` : Sorts files/directories and lists them by time/date
+* `ls -a` : List out all the files, including the hidden ones
 
 > Step 4: Moving Files over SSH with `scp`
 
@@ -51,21 +54,13 @@ Log into ieng6 with `ssh` and use `ls`. You should be able to see the files in y
 
 ![Image](sshkeys.png)
 
-Make sure you're on the client. Run 
-
-`ssh-keygen`
+Make sure you're on the client. Run `ssh-keygen`.
 
 Enter the file where you want to save the key. Then enter passphrase or press enter for no passphrase. 
 
-Now let's copy the public key to the `.ssh` directory of your user account on the server. Type
+Now let's copy the public key to the `.ssh` directory of your user account on the server. Type `ssh cs15lwi22asw@ieng6.ucsd.edu`. 
 
-`ssh cs15lwi22asw@ieng6.ucsd.edu`
-
-log in, and type
-
-`mkdir .ssh`
-
-then `exit`. 
+Log in, and type `mkdir .ssh` then `exit`. 
 
 You should now be able to `ssh` or `scp` from the client to the server without entering your password. 
 
