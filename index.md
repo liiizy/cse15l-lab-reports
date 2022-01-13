@@ -11,7 +11,7 @@ hi i am liiizy
 
 [Here is my favorite video ever.](https://www.youtube.com/watch?v=ocg8s6iRDuw)
 
-And here's a cute cat!
+And here's a cute cat! I see the cute cat on the preview!
 
 ![Image](https://i0.wp.com/catcaresolutions.com/wp-content/uploads/2020/12/cute-cat-with-yellow-headband-on.png?fit=683%2C1024&ssl=1)
 
