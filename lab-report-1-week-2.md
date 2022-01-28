@@ -1,3 +1,5 @@
+# Lab Report 1
+
 > Step 1: Visual Studio Code
 
 ![Image](downloadvscode.png)
@@ -82,5 +84,10 @@ We can use semicolons to run multiple commands on the same line:
 `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
 
 And we can use the up arrow to recall the last command(s) that were run.  
+
+Making a local edit to `WhereAmI.java`, then copying it to the remote server and running it:
+
+1. Assuming you previously had this command in your terminal: `ssh cs15lwi22asw@ieng6.ucsd.edu; javac WhereAmI.java; java WhereAmI`, simply press the up arrow.
+2. Then press the enter arrow to run it on the remote server. 
 
 
