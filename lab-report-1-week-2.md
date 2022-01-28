@@ -81,5 +81,6 @@ We can use semicolons to run multiple commands on the same line:
 
 `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
 
-And we can use the up arrow to recall the last command(s) that were run. 
+And we can use the up arrow to recall the last command(s) that were run.  
+
 
