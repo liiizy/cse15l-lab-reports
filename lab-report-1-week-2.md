@@ -87,7 +87,9 @@ And we can use the up arrow to recall the last command(s) that were run.
 
 Making a local edit to `WhereAmI.java`, then copying it to the remote server and running it:
 
-1. Assuming you previously had this command in your terminal: `ssh cs15lwi22asw@ieng6.ucsd.edu; javac WhereAmI.java; java WhereAmI`, simply press the up arrow.
-2. Then press the enter arrow to run it on the remote server. 
+1. Assuming you previously had `scp WhereAmI.java cs15lwi22asw@ieng6.ucsd.edu:~/` in your terminal, press the up arrow to use the command. 
+2. Then press enter. 
+3. Assuming you previously had this command in your terminal: `ssh cs15lwi22asw@ieng6.ucsd.edu; javac WhereAmI.java; java WhereAmI`, simply press the up arrow.
+4. Then press the enter arrow to run it on the remote server. 
 
 
