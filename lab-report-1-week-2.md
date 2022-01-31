@@ -89,7 +89,9 @@ Making a local edit to `WhereAmI.java`, then copying it to the remote server and
 
 1. Assuming you previously had `scp WhereAmI.java cs15lwi22asw@ieng6.ucsd.edu:~/` in your terminal, press the up arrow to use the command. 
 2. Then press enter. 
-3. Assuming you previously had this command in your terminal: `ssh cs15lwi22asw@ieng6.ucsd.edu; javac WhereAmI.java; java WhereAmI`, simply press the up arrow.
+3. Assuming you previously had this command in your terminal: `ssh cs15lwi22asw@ieng6.ucsd.edu; javac WhereAmI.java; java WhereAmI`, simply press the up arrow twice.
 4. Then press the enter arrow to run it on the remote server. 
+
+In total, it took 5 keystrokes to run `WhereAmI.java` on the remote server.
 
 
