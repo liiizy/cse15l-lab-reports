@@ -1,5 +1,7 @@
 # Lab Report 4
 
+[My Repository](https://github.com/liiizy/markdown-parse)
+
 > Expected outputs shown in VS Code:
 
 ![Image](expectedoutputs.png)
@@ -11,6 +13,8 @@
 > Test output:
 
 ![Image](myoutput.png)
+
+[Other Group's Repository](https://github.com/CatherineGu16/CSE15L-RoseateSpoonbill)
 
 > Other lab group's test code:
 
