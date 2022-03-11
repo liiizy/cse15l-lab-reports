@@ -3,9 +3,11 @@
 ## First Test
 
 > Lab 9 implementation:
+
 ![Image](e1p1.png)
 
 > My implementation:
+
 ![Image](e1p2.png)
 
 - I found the different outputs by putting all the outputs into a `.txt` file, then compared each test manually. 
@@ -18,9 +20,11 @@
 ## Second Test
 
 > Lab 9 implementation:
+
 ![Image](e2p1.png)
 
 > My implementation:
+
 ![Image](e2p2.png)
 
 - I found the different outputs by putting all the outputs into a `.txt` file, then compared each test manually.
